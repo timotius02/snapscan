@@ -643,6 +643,9 @@ p.left,.right a{
 		width:94%;
 		padding:3%; 
 	}
+	#nav li a{
+		font-size:1em;
+	}
    
    .contact-form input[type="text"],.contact-form textarea{
 		width:97%;
@@ -667,9 +670,7 @@ p.left,.right a{
 	.contact-form input[type="text"],.contact-form textarea{
 		width:92%;
 	}
-	#nav li a{
-		font-size:1em;
-	}
+
 	#nav li {
 		width: 23.77%;
 	}
