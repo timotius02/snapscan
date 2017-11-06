@@ -624,6 +624,9 @@ p.left,.right a{
 	.soc-icons {
 		margin-top: 2.6%;
 	}
+		#nav li a{
+		font-size:1em;
+	}
 }
 /*  GO FULL WIDTH AT LESS THAN 640 PIXELS */
 @media only screen and (max-width: 640px) and (min-width: 480px) {
@@ -640,9 +643,6 @@ p.left,.right a{
 	.span_1_of_3 {
 		width:94%;
 		padding:3%; 
-	}
-	#nav li a{
-		font-size:1em;
 	}
    
    .contact-form input[type="text"],.contact-form textarea{
@@ -669,9 +669,6 @@ p.left,.right a{
 		width:92%;
 	}
 
-	#nav li {
-		width: 23.77%;
-	}
 	.soc-icons li:nth-child(3),.soc-icons li:nth-child(4){
 		display: none;
 	}
