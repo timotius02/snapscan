@@ -620,9 +620,7 @@ p.left,.right a{
 		width:94%;
 		padding:3%; 
 	}
-	#nav li:nth-child(2){
-		display:none;
-	}
+
 	.soc-icons {
 		margin-top: 2.6%;
 	}
