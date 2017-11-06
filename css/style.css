@@ -452,11 +452,14 @@ p.left,.right a{
 	}	
 }
 
-/*  GO FULL WIDTH AT LESS THAN 640 PIXELS */
-@media only screen and (max-width: 640px){
+@media only screen and (max-width: 800px){
 	.wrap{
 		width:95%;
 	}
+}
+
+/*  GO FULL WIDTH AT LESS THAN 640 PIXELS */
+@media only screen and (max-width: 640px){
 	.image{
 		padding:3%;
 	}
