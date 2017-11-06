@@ -204,6 +204,7 @@ content: url('../images/right-arrow.png') no-repeat 0 0;
 .images_1_of_3  img {
 	max-width:100%;
 	display:block;
+	margin:auto;
 }
 .images_1_of_3  h3{
 	color:#782B60;
