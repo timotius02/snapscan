@@ -602,7 +602,7 @@ p.left,.right a{
 }
 /*  GO FULL WIDTH AT LESS THAN 800 PIXELS */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 640px) {
 	.wrap{
 		width:95%;
 	}
